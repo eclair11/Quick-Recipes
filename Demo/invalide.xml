@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<recipess>
+	<recipe>
+		<name>Test Recipe</name>
+		<region>Test Region</region>
+		<discovery>Test Discovery</discovery>
+		<author>Test Author</author>
+		<calorie>Test Calorie</calorie>
+		<history>Test History</history>
+		<category>
+			<cat>Test Cat A</cat>
+			<cat>Test Cat B</cat>
+		</category>
+		<ingredient>
+			<ing>Test Ing A</ing>
+			<ing>Test Ing B</ing>
+			<ing>Test Ing C</ing>
+		</ingredient>
+		<preparation>
+			<pre>Test Pre A</pre>
+			<pre>Test Pre B</pre>
+			<pre>Test Pre C</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/plat.jpg</pic>
+		</picture>
+	</recipe>
+</recipess>

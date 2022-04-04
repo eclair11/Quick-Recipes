@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<recipes>
+	<recipe>
+		<name>Tiramisu au café</name>
+		<region>Italia</region>
+		<discovery>20ème siècle</discovery>
+		<author>????</author>
+		<calorie>240</calorie>
+		<history>Le tiramisu (de l'italien « tiramisù » [ˌtiramiˈsu], du vénitien « tiramesù », littéralement « tire-moi vers le haut », « remonte-moi le moral », « redonne-moi des forces ») est une pâtisserie et un dessert traditionnel de la cuisine italienne.</history>
+		<category>
+			<cat>Sucré</cat>
+			<cat>Dessert</cat>
+			<cat>Cuisine italienne</cat>
+		</category>
+		<ingredient>
+			<ing>Pour 8 personnes</ing>
+			<ing>500 g de mascarpone</ing>
+			<ing>100 g de sucre</ing>
+			<ing>4 oeufs</ing>
+			<ing>48 biscuits à la cuillère</ing>
+			<ing>35 cl de café fort froid</ing>
+			<ing>2 cuillères à soupe de cacao non sucré</ing>
+			<ing>1 cuillère à soupe de marsala à l'amande ou autre alcool</ing>
+			<ing>1 pincée de sel</ing>
+		</ingredient>
+		<preparation>
+			<pre>Préparation : 15 min</pre>
+			<pre>1) Séparer le blanc des jaunes des œufs. Dans un saladier mélanger les jaunes d'oeuf avec le sucre au fouet puis rajouter le Marsala et le mascarpone.</pre>
+			<pre>2) Dans un autre saladier, battre les blancs d'oeuf en neige au fouet avec la pincée de sel.</pre>
+			<pre>3) Ajouter les oeufs en neige à la première préparation en mélangeant délicatement afin d'obtenir un appareil mousseux et léger.</pre>
+			<pre>4) Tremper les biscuits dans le café froid et en tapisser le fond de votre plat puis étaler par dessus votre préparation - renouveler l'opération encore une fois.</pre>
+			<pre>5) Saupoudrer le tiramisu de cacao pour finir.</pre>
+			<pre>6) Mettre au frais au moins 12 h.</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/dessert_001.png</pic>
+			<pic>D:/Demo/dessert_002.jpg</pic>
+		</picture>
+	</recipe>
+	<recipe>
+		<name>Mille-feuille</name>
+		<region>France</region>
+		<discovery>1651</discovery>
+		<author>François Pierre de La Varenne</author>
+		<calorie>293</calorie>
+		<history>Un mille-feuille, ou millefeuille, est une pièce de pâtisserie faite de trois couches de pâte feuilletée et deux couches de crème pâtissière. Le dessus est glacé avec du sucre glace ou du fondant. On peut y ajouter de la confiture ou des fruits. Il aurait été créé par François Pierre de La Varenne, qui le décrit dans son Cuisinier françois en 1651. Il aurait ensuite été perfectionné par Marie-Antoine Carême, cuisinier de Charles-Maurice de Talleyrand-Périgord. Cependant, beaucoup de pâtissiers professionnels ne le font remonter qu'à 1867, date à laquelle il fut proposé comme spécialité du célèbre pâtissier Adolphe Seugnot, alors installé 28 rue du Bac à Paris.</history>
+		<category>
+			<cat>Sucré</cat>
+			<cat>Dessert</cat>
+			<cat>Cuisine française</cat>
+		</category>
+		<ingredient>
+			<ing>Pour 6 personnes</ing>
+			<ing>500 g de pâte feuilletée</ing>
+			<ing>1 oeuf</ing>
+			<ing>1/4 L de lait</ing>
+			<ing>50 g de sucre</ing>
+			<ing>35 g de farine</ing>
+			<ing>1 sachet de sucre vanillé</ing>
+			<ing>Pour le glacage :</ing>
+			<ing>Sucre glace</ing>
+			<ing>1 chocolat</ing>
+		</ingredient>
+		<preparation>
+			<pre>Préparation : 30 min, cuisson : 25 min</pre>
+			<pre>1) Abaisser la pâte feuilletée sur environ 3 mm. Tailler des rectangles de taille égale. La piquer à la fourchette pour qu'elle ne gonfle pas puis la mettre au four sur 6, soit 180°C.</pre>
+			<pre>2) Pendant ce temps, préparer la crème pâtissière : Mettre le lait à bouillir.</pre>
+			<pre>3) Pendant ce temps, mélanger dans un saladier l'oeuf, le sucre, le sucre vanillé et la farine.</pre>
+			<pre>4) Lorsque le lait est à ébullition, le verser immédiatement dans le saladier.</pre>
+			<pre>5) Remettre à cuire dans la casserole pendant quelques minutes afin que le liquide prenne la consistance d'une crème.</pre>
+			<pre>6) Etaler la crème pâtissière sur une première couche de pâte, puis faire de même avec une seconde. Les assembler.</pre>
+			<pre>7) Attendre que le gâteau soit froid pour étaler au pinceau le glacage, fait avec beaucoup de sucre glace mélangé à un peu d'eau. Réaliser un dessin avec le reste du glacage, mélangé à un carreau de chocolat fondu.</pre>
+			<pre>8) C'est prêt !</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/dessert_004.jpg</pic>
+			<pic>D:/Demo/dessert_003.jpg</pic>
+		</picture>
+	</recipe>
+</recipes>

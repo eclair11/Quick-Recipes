@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<recipes>
+	<recipe>
+		<name>Salade niçoise</name>
+		<region>France</region>
+		<discovery>????</discovery>
+		<author>????</author>
+		<calorie>75</calorie>
+		<history>La salade niçoise est une spécialité culinaire traditionnelle de la cuisine niçoise, à ce jour répandue dans le monde entier sous de multiples variantes et adaptations. Elle constitue l'une des principales entrées des cuisines provençale et méditerranéenne, voire un repas à part entière.</history>
+		<category>
+			<cat>Salade</cat>
+			<cat>Cuisine provençale</cat>
+			<cat>Régime méditerranéen</cat>
+		</category>
+		<ingredient>
+			<ing>Pour 4 personnes</ing>
+			<ing>1 boîte de thon</ing>
+			<ing>4 tomates</ing>
+			<ing>2 poivrons</ing>
+			<ing>2 oeufs</ing>
+			<ing>2 oignons nouveaux</ing>
+			<ing>Mesclun</ing>
+			<ing>Anchois</ing>
+			<ing>Radis</ing>
+			<ing>Basilic</ing>
+			<ing>Huile d'olive</ing>
+			<ing>Olive noire</ing>
+		</ingredient>
+		<preparation>
+			<pre>Préparation : 25 min</pre>
+			<pre>1) Laver et égoutter le mesclun. Laver et couper les poivrons en petits cubes. Émincer les oignons.</pre>
+			<pre>2) Laver et couper les tomates en quartiers. Ajouter les tomates à la salade, les olives, les œufs durs, le thon et les anchois.</pre>
+			<pre>3) Placer le tout joliment dans une assiette. Faire la vinaigrette avec l'huile et le basilic. Verser sur la salade, bon appétit !</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/salade_001.jpg</pic>
+		</picture>
+	</recipe>
+	<recipe>
+		<name>Salade César</name>
+		<region>Mexico</region>
+		<discovery>1924</discovery>
+		<author>Caesar Cardini</author>
+		<calorie>44</calorie>
+		<history>La salade César (en anglais : Caesar salad ; en espagnol : ensalada César ; en italien : Caesar salad) est une recette de cuisine de salade composée de la cuisine américaine, traditionnellement préparée en salle à côté de la table, à base de laitue romaine, œuf dur, croûtons, parmesan et de « sauce César » à base de parmesan râpé, huile d'olive, pâte d'anchois, ail, vinaigre de vin, moutarde, jaune d'œuf et sauce Worcestershire4. Créée en 1924 par le chef cuisinier italo-américain Caesar Cardini dans son restaurant Caesar's (en) de Tijuana au Mexique1,2,3, elle devient une des recettes populaires de la cuisine des États-Unis et de la restauration rapide, puis du monde entier5...</history>
+		<category>
+			<cat>Salade</cat>
+			<cat>Cuisine italienne</cat>
+			<cat>Cuisine mexicaine</cat>
+			<cat>Cuisine américaine</cat>
+		</category>
+		<ingredient>
+			<ing>Pour 4 personnes</ing>
+			<ing>2 blanc de poulet</ing>
+			<ing>2 tranches pain de mie</ing>
+			<ing>1 c à s lait</ing>
+			<ing>1 c à s parmesan râpé</ing>
+			<ing>1 c à s jus de citron</ing>
+			<ing>1 c à c moutarde de Dijon</ing>
+			<ing>6 c à s mayonnaise</ing>
+			<ing>1 gousse d'ail</ing>
+			<ing>Sel</ing>
+			<ing>Poivre</ing>
+			<ing>Laitue iceberg</ing>
+			<ing>Huile d'olive</ing>
+		</ingredient>
+		<preparation>
+			<pre>Préparation : 15 min, cuisson : 5 min</pre>
+			<pre>1) Une heure avant le repas, mélanger tous les ingrédients de la sauce. Filmer et laisser reposer une heure au réfrigérateur.</pre>
+			<pre>2) Couper les tranches de pain en cube. Faire revenir les croûtons dans un filet d'huile d'olive pendant 2 minutes et laisser refroidir.</pre>
+			<pre>3) Couper le poulet en petits morceaux et faire cuire dans une poêle anti-adhésive sans matière grasse. Faire dorer et laisser refroidir.</pre>
+			<pre>4) Déchirer la laitue et petits morceaux.</pre>
+			<pre>5) Dresser dans l'ordre : salade, poulet, croûtons et sauce César.</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/salade_002.jpeg</pic>
+			<pic>D:/Demo/salade_003.jpg</pic>
+		</picture>
+	</recipe>
+	<recipe>
+		<name>Salade grecque</name>
+		<region>Greece</region>
+		<discovery>????</discovery>
+		<author>????</author>
+		<calorie>173</calorie>
+		<history>La salade grecque (grec moderne : χωριάτικη σαλάτα / choriátiki saláta, « salade paysanne, de campagne », ou simplement χωριάτικη / choriátiki) est une composante de la cuisine grecque. Il s’agit, non pas d’un légume (la salade), mais d'une salade composée spécifique à la Grèce, qui se caractérise par sa simplicité.</history>
+		<category>
+			<cat>Salade</cat>
+			<cat>Cuisine grecque</cat>
+		</category>
+		<ingredient>
+			<ing>Pour 4 personnes</ing>
+			<ing>1 concombre</ing>
+			<ing>3 tomates</ing>
+			<ing>1 poivron vert</ing>
+			<ing>1 oignon rouge (facultatif)</ing>
+			<ing>150g feta</ing>
+			<ing>80g olive noire grecque</ing>
+			<ing>1/2 citron</ing>
+			<ing>Huile d'olive</ing>
+			<ing>Sel</ing>
+			<ing>Poivre</ing>
+		</ingredient>
+		<preparation>
+			<pre>Préparation : 10 min</pre>
+			<pre>1) Laver les légumes. Couper le concombre en fines rondelles (éplucher le ou non, selon le goût), couper les tomates en quartiers réguliers en retirant les pépins, vider le poivron et le couper en petit dès, éplucher l'oignon rouge et détacher les rondelles (facultatif).</pre>
+			<pre>2) Dans un bol, mélanger l'huile d'olive, le jus de citron, puis saler et poivrer.</pre>
+			<pre>3) Dans un saladier, mélanger tous les légumes, ajouter les olives noires et la feta puis la vinaigrette. C'est prêt !</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/salade_004.jpg</pic>
+			<pic>D:/Demo/salade_005.jpg</pic>
+			<pic>D:/Demo/salade_006.jpeg</pic>
+		</picture>
+	</recipe>
+</recipes>

@@ -1,4 +1,4 @@
-# Project Quick Recipes
+# Quick Recipes
 
 ![Github](https://github.com/eclair11/quick-recipes/blob/dev/front/src/assets/img/fast-food.svg)
 

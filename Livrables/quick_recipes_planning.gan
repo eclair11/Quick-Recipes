@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Master 1 DSC - TER - Planning" company="Projet Quick Recipes" webLink="" view-date="2020-07-05" view-index="0" gantt-divider-location="678" resource-divider-location="300" version="2.8.11" locale="fr">
+    <description/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="297" order="0"/>
+        <field id="tpd4" name="Date de début" width="110" order="1"/>
+        <field id="tpd5" name="Date de fin" width="99" order="2"/>
+        <field id="tpd13" name="Ressources" width="98" order="3"/>
+        <field id="tpd7" name="Avancée" width="70" order="4"/>
+        <option id="color.recent">
+            <![CDATA[#ff00cc #00ff00 #ff0033 #ffff00 #ff0066 #00ffcc #ccff00 #ff9900 #ff6600 #99ff00]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="1" name="Phase 1 : Initialisation du projet" color="#000000" meeting="false" start="2020-04-20" duration="25" complete="100" thirdDate="2020-01-17" thirdDate-constraint="0" expand="true">
+            <task id="33" name="Description de l'application" color="#00ffcc" meeting="false" start="2020-04-20" duration="2" complete="100" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+            <task id="36" name="Fonctionnalités de l'application" color="#00ffcc" meeting="false" start="2020-04-22" duration="3" complete="100" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+            <task id="40" name="Choix des technologies" color="#00ffcc" meeting="false" start="2020-04-27" duration="2" complete="100" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+            <task id="44" name="Conception de la base de données" color="#00ffcc" meeting="false" start="2020-04-29" duration="3" complete="100" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+            <task id="47" name="Construction du projet (client/serveur)" color="#00ffcc" meeting="false" start="2020-05-04" duration="2" complete="100" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+            <task id="99" name="Rédaction du rapport" color="#00ffcc" meeting="false" start="2020-05-06" duration="3" complete="100" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+            <task id="101" name="Conception IHM" color="#00ffcc" meeting="false" start="2020-05-11" duration="5" complete="100" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+            <task id="103" name="Modélisation UML" color="#00ffcc" meeting="false" start="2020-05-18" duration="5" complete="100" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="16" name="Phase 2 : Codage du projet" color="#000000" meeting="false" start="2020-05-25" duration="55" complete="77" thirdDate="2020-02-21" thirdDate-constraint="0" expand="true">
+            <task id="17" name="Fonctionnalités prioritaires" color="#000000" meeting="false" start="2020-05-25" duration="30" complete="84" thirdDate="2020-02-21" thirdDate-constraint="0" expand="true">
+                <task id="77" name="Phase de développement" color="#ff0033" meeting="false" start="2020-05-25" duration="30" complete="90" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+                <task id="83" name="Phase de test" color="#ff0033" meeting="false" start="2020-06-29" duration="5" complete="50" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true"/>
+            </task>
+            <task id="18" name="Fonctionnalités supplémentaires" color="#000000" meeting="false" start="2020-07-06" duration="20" complete="57" thirdDate="2020-02-28" thirdDate-constraint="0" expand="true">
+                <task id="91" name="Phase de développement" color="#ffff00" meeting="false" start="2020-07-06" duration="15" complete="60" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true"/>
+                <task id="93" name="Phase de test" color="#ffff00" meeting="false" start="2020-07-27" duration="5" complete="50" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true"/>
+            </task>
+            <task id="124" name="Intégration de l'application" color="#00ff00" meeting="false" start="2020-07-27" duration="10" complete="100" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="23" name="Phase 3 : Finalisation du projet" color="#000000" meeting="false" start="2020-08-03" duration="20" complete="81" thirdDate="2020-02-28" thirdDate-constraint="0" expand="true">
+            <task id="20" name="Rédaction du rapport" color="#00ff00" meeting="false" start="2020-08-03" duration="15" complete="90" thirdDate="2020-01-21" thirdDate-constraint="0" expand="true"/>
+            <task id="127" name="Intégration IA" color="#ff00cc" meeting="false" start="2020-08-03" duration="15" complete="100" thirdDate="2020-05-11" thirdDate-constraint="0" expand="true"/>
+            <task id="121" name="Préparation de la soutenance" color="#00ff00" meeting="false" start="2020-08-24" duration="5" complete="0" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources>
+        <resource id="1" name="Elias Romdan" function="Default:1" contacts="" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="83" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="93" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="20" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="33" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="36" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="40" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="44" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="47" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="99" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="101" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="103" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="77" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="91" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="121" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="1" resource-id="1" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="16" resource-id="1" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="17" resource-id="1" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="18" resource-id="1" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="23" resource-id="1" function="Default:1" responsible="true" load="100.0"/>
+        <allocation task-id="124" resource-id="1" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
+        <allocation task-id="127" resource-id="1" function="Default:1" responsible="true" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<recipes>
+	<recipe>
+		<name>Soupe à l'oignon</name>
+		<region>France</region>
+		<discovery>17ème siècle</discovery>
+		<author>Louis XV</author>
+		<calorie>23</calorie>
+		<history>La soupe à l’oignon est une soupe gratinée à base d'oignon, traditionnelle de la cuisine française, et de nombreuses régions productrices d'oignons.</history>
+		<category>
+			<cat>Soupes</cat>
+			<cat>Poutages</cat>
+			<cat>Cuisine française</cat>
+		</category>
+		<ingredient>
+			<ing>Pour 4 personnes</ing>
+			<ing>4 gros oignons (ou 5 moyens)</ing>
+			<ing>100 g gruyère râpé</ing>
+			<ing>4 tranches pain de campagne</ing>
+			<ing>1L bouillon de volaille (ou de boeuf)</ing>
+			<ing>20 g beurre</ing>
+			<ing>1 cuil. à soupe farine</ing>
+			<ing>Sel</ing>
+			<ing>Poivre</ing>
+		</ingredient>
+		<preparation>
+			<pre>Préparation : 15 min, cuisson : 40 min</pre>
+			<pre>1) Epluchez les oignons et coupez-les en fines rondelles.</pre>
+			<pre>2) Faites fondre le beurre dans une casserole et faites-y revenir les oignons 3 min.</pre>
+			<pre>3) Saupoudrez les oignons de farine, mélangez et laissez cuire 30 sec.</pre>
+			<pre>4) Salez, poivrez et versez le bouillon. Couvrez et laissez cuire 30 min.</pre>
+			<pre>5) Versez la soupe dans 4 bols individuels passant au four.</pre>
+			<pre>6) Disposez les tranches de pain de campagne sur la soupe, parsemez de gruyère râpé et passez sous le grill quelques min.</pre>
+			<pre>7) Servez immédiatement.</pre>
+		</preparation>
+		<picture>
+			<pic>D:/Demo/plat_001.jpg</pic>
+		</picture>
+	</recipe>
+</recipes>
